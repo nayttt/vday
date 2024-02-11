@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(189, 139, 223);
+}
+
+.header_text {
+    font-family: Cursive;
+    font-size: 50px;
+    font-weight: bold;
+    color: #79c7c8;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+    height: 250px;
+}
+div.tenor-gif-embed{
+  width: 120px;
+  heigfht: auto;
